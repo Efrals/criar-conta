@@ -28,14 +28,14 @@ Este projeto é um validador de campos de formulário para criação de conta.
 
 ## ▶️ Como Usar
 
-Entre no site: [Validador de Formulário](https://validador-de-formulario-efrals.netlify.app/)
+Entre no site: [Validador de Formulário](https://validadordeformulario-efraimrsilva.netlify.app/)
 
 OU
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Efrals/validador-de-formulario.git
+   git clone https://github.com/efraimrsilva/validador-de-formulario.git
    ```
 
 2. Navegue até a pasta do projeto
